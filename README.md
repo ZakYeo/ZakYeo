@@ -1,6 +1,6 @@
 <h2 align="center">Zak Yeomanson</h2>
-<h2 align="center">First Class Computer Science Graduate & Software Engineer</h2>
-
+<div align="center">First Class Computer Science Graduate & Software Engineer</div>
+<br>
 <div align="center">
   <a href="mailto:zakyeomanson@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" style="height:20px;">
